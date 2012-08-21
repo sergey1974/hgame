@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Htris</string>
+    <string name="title_activity_main">H</string>
+    <string name="button_left">&lt;</string>
+    <string name="button_right">&gt;</string>
+    <string name="button_down">down</string>
+    <string name="button_start">start</string>
+</resources>
